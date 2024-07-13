@@ -1,0 +1,8 @@
+variavel,descricao,tipo,subtipo
+species,Nome da espécie,qualitativa,nominal
+island,Nome da ilha onde foi feita a medição,qualitativa,nominal
+bill_length_mm,Comprimento de bico,quantitativa,continua
+bill_depth_mm,Profundidade (altura) de bico,quantitativa,continua
+flipper_length_mm,Comprimento de nadadeira,quantitativa,continua
+body_mass_g,Massa corporal (peso),quantitativa,continua
+sex,Sexo dos indivíduos,qualitativa,nominal
